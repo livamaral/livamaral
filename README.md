@@ -5,6 +5,8 @@
 Graduated in Information Technology Management, with a brief experience in IT support and infrastructure where I was for 3 years.
 In career transition, currently studying Systems Analysis and Development and interning in Backend Development*
 
+- 📚 I’m currently learning **Java, Spring, Database**
+
 
 
  
