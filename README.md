@@ -1,4 +1,5 @@
-**I'm Lívia**
+**Hey, <br>
+I'm Lívia!**
 <h3 align="center">Just a developer girl👩🏻‍💻</h3>
 
 *Hello, welcome! <br>
