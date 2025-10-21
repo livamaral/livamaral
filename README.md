@@ -1,29 +1,37 @@
-**Hey, <br>
-I'm Lívia!**
-<h3 align="center">Just a developer girl👩🏻‍💻</h3>
 
-*Hello, welcome! <br>
-Graduated in Information Technology Management, with a brief experience in IT support and infrastructure where I was for 3 years.
-In career transition, currently studying Systems Analysis and Development and interning in Backend Development*
+<h3 align="center">Hey, <br>
+I'm Lív!   👩🏻‍💻</h3>
 
-- 📚 I’m currently learning **Java with Spring Boot, Kotlin and AWS Services**
+*Hello and welcome! <br>
+I'm a Software Developer working with Backend Development using Python and Kotlin. I work with cloud services, APIs, and monitoring tools like Datadog, Splunk, and Insomnia.*
 
+---
 
-**IDE:**
+### 💻 IDE & Tools
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-FD4300.svg?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white"/>
 
+---
 
-
- <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
- 
- **Languages and Tolls ⚙️:** 
- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=livamaral&show_icons=true&theme=dark&locale=en&layout=compact" alt="livamaral" /></p>
- 
-
-
-<h3 align="left">Connect with me:</h3>
+### 🛠 Languages & Tech
 <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
 </p>
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/l%C3%ADvia-amaral-6bb4b915a/)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/livizina?igshid=YmMyMTA2M2Y=/)
+---
